@@ -1,0 +1,11 @@
+Name,Time
+jisso,14:24:01
+lalisa,14:25:02
+lalisa,14:25:03
+jisso,14:26:00
+jennie,16:46:29
+lalisa,rose,jennie,jisso,17:52:6
+rose,17:27:09
+rose,17:28:00
+jennie,17:30:08
+lalisa,18:20:18
